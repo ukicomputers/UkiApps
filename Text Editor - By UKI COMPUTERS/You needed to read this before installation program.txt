@@ -1,0 +1,7 @@
+After installation, open folder in C:\Program Files (x86)\UKI COMPUTERS\Text Editor - By UKI COMPUTERS
+
+Right click on program/file Text Editor - By UKI COMPUTERS.exe and select Properties. Click on Compability and press Run this Program an Administrator and on Apply and  OK.
+
+Double click on program/file Text Editor - By UKI COMPUTERS.exe and in prompt selct Yes. 
+
+Congularations! You are installed Text Editor - By UKI COMPUTERS!
