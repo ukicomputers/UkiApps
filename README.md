@@ -1,4 +1,4 @@
-# UkiApps :slightly_smiling_face:   -        About [here](https://uki-computers.github.io/web).
+# UkiApps :slightly_smiling_face:   -        About [here](https://uki-computers.github.io/home).
 All apps by UKI COMPUTERS.
 
 This respository having all apps by UKI COMPUTERS. Try our apps. Here is some picture from app "Text Editor" and other:
